@@ -1,5 +1,5 @@
 # hello-world
-creating first repository
+I am lakshmi
 I have never created a repository
-this is my first repository 
+I like learn new things . 
 feeling great about this.
